@@ -1,6 +1,6 @@
 <template>
   <div>
-    
+    Words
   </div>
 </template>
 <script>
